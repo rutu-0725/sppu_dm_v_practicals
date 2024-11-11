@@ -1,1 +1,1 @@
-# sppu_ml_practicals
+# sppu_dm_v_practicals
