@@ -26,6 +26,6 @@ This repository contains machine learning practicals for the Bachelor of Enginee
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Nehasardar2003/BE_AIDS_ML_Practicals.git
+   git clone https://github.com/rutu-0725/SPPU_ml_practicals
    cd BE_AIDS_ML_Practicals
 
